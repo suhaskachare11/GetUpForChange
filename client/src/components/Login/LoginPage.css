@@ -1,0 +1,16 @@
+.loginContainer {
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    /* background-color: red; */
+  } 
+
+.innerContainer{
+  width: 40%;
+ border: 1px solid gray;
+ padding: 20px;
+}  
